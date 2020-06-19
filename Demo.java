@@ -15,7 +15,7 @@ public class Demo {
 		if(items<=0)
 		{
 			System.out.println("Invalid Input");
-		   System.exit(0);
+		        System.exit(0);
 		}
 		else
 		{
@@ -49,7 +49,7 @@ public class Demo {
 				items--;
 		}
 		System.out.println("Total Amount: "+totalCost);
-	    System.out.println("Total Tax : "+Tax);	
+	        System.out.println("Total Tax : "+Tax);	
 	}
  }
 }
